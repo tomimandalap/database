@@ -15,6 +15,9 @@ Kolom tabel produk terdiri dari:
 - jumlah
 
 ## Membbuat DATABASE di phpMyadmin
+<div align="center">
+    <img src="database/capture1.png" width="400px"</img> 
+</div>
 
 ## HTML, CSS, JavaSricpt, PHP
 1. Page Index.php
